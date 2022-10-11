@@ -1,0 +1,276 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins',sans-serif;
+}
+body{
+    background: #efefef;
+}
+nav{
+
+size: 10px;
+size-adjust: 10px;
+background: #cad5d9;
+}
+.logo{
+    width: 60px;
+    padding-top: 0px;
+}
+.form-control{
+   
+    align-items: center;
+    border-radius: 50px;
+    width: 100px;
+    height: 32px;
+    
+}
+.imp-links a{
+    color: #0e0303;
+    padding-left: 5px;
+
+}
+.page a {
+    color: #0e0303;
+}
+.pogo a{
+    font-size: small;
+    padding-left: 20px;
+}
+
+.container{
+    padding-top: 5px;
+   padding-left: 220px;
+   
+}
+.item{
+    
+   padding-right: 10px;
+}
+.nav-item{
+    padding-left: 50px;
+}
+
+.container-fluid{
+    display: flex;
+    justify-content: space-between;
+    padding: 13px 5%;
+    position: sticky;
+}
+.left-sidebar{
+    background: #eef1f0;
+    flex-basis: 25%;
+    top: 70px;
+    align-self: flex-start;
+    height: 100vh;
+
+   
+    
+}
+.right{
+    padding-left: 240px;
+}
+
+.right-sidebar{
+    background: #eef1f0;
+    flex-basis: 25%;
+    
+    
+    
+    top: 70px;
+    align-self: flex-start;
+    height: 100vh;
+    padding-left: 20px;
+    padding-top: 5px;
+}
+.card{
+    padding: 5px;
+    border-radius: 6px;
+  
+   
+   
+}
+.btn {
+    justify-content: space-between;
+}
+.sidebar-title{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-right: 20px;
+
+}
+.sidebar-title h4{
+font-weight: 600;
+font-size: 16px;
+}
+.sidebar-title a{
+    text-decoration: none;
+    color: #1876f2;
+    font-size: 12px;
+    padding-right: 10px;
+}
+.section h5{
+    font-weight: 600;
+font-size: 16px;
+}
+.right-sidebar h4{
+    font-weight: 600;
+    font-size: 16px;
+}
+.contact{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.contact h4{
+    font-weight: 600;
+    font-size: 18px;
+    }
+    .contact a{
+        text-decoration: none;
+        color: #1876f2;
+        font-size: 8px;
+        
+    }
+
+    .main-content{
+        background: #eef1f0;
+        flex-basis: 45%;
+        height: 100vh;
+        top: 70px;
+        align-self: flex-start;
+       
+    
+        border-radius: 6px;
+    }
+    .header{
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+        background: #fff;
+        border-radius: 6px;
+       
+        
+    }
+    .form-control1{
+        width: 700px;
+      border-radius: 10px;
+      size: 52px;
+      
+    }
+    
+  .post-input{
+    padding-left: 20px;
+    padding-top: 15px;
+    width: 100%;
+    height: 50px;
+    border-radius: 20px;
+    resize: none;
+    background: #edf0f1;
+  }
+  .add-post-links{
+    display: flex;
+    margin-top: 10px;
+    background: #fff;
+    border-radius: 6px;
+  }
+  .add-post-links a{
+    text-decoration: none;
+    
+    display: flex;
+    align-items: center;
+    color: #626262;
+    margin-right: 120px;
+    padding-left: 55px;
+    font-size: 13px;
+    justify-content: space-between;
+  }
+  .post-container{
+    width: 100%;
+    background: #fff;
+    border-radius: 6px;
+    padding: 20px;
+    color: #626262;
+    margin: 20px 0;
+   
+    
+  }
+ 
+.user-profile a{
+    color: #0e0303;
+    font-weight: 600;
+    
+    
+    
+}
+.user-profile h5{
+ color: #626262;
+ font-size: small;
+ padding-left: 70px;
+}
+.post-img{
+    width: 100%;
+    border-radius: 4px;
+    margin-bottom: 5px;
+}
+.like{
+    width: 20px;
+}
+.love{
+    width: 24px;
+    
+}
+.post-row h6{
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.like-comment{
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.like-comment a{
+    color: #626262;
+}
+.comm{
+   padding-left: 360px;
+   color: #626262;
+}
+.dot{
+    padding-left: 470px;
+}
+.doot{
+    padding-left: 100px;
+}
+.status{
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #fff;
+    border-radius: 6px;
+}
+.photo-text{
+    padding-left: 5px;
+    
+}
+.photo-text h6{
+    font-size: small;
+    padding-left: 70px;
+}
+.photo-text a{
+    color: #0e0303;
+}
+.but{
+    padding-left: 70px;
+  size: small;
+}
+.butt{
+    text-align: center;
+    padding-bottom: 25px;
+} 
